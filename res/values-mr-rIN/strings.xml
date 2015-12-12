@@ -2887,7 +2887,7 @@
     <string name="camera_gesture_title" msgid="1075838577642393011">"कॅमेर्‍यासाठी दोनदा वळवा"</string>
     <string name="camera_gesture_desc" msgid="1831390075255870960">"आपले मनगट दोनदा वळवून कॅमेरा अॅप उघडा"</string>
     <string name="camera_double_tap_power_gesture_title" msgid="1651873760405034645">"कॅमेर्‍यासाठी उर्जा बटण दोनदा दाबा"</string>
-    <string name="camera_double_tap_power_gesture_desc" msgid="7355664631775680376">"आपली स्क्रीन अनलॉक न करता कॅमेरा दृतपणे उघडा"</string>
+    <string name="camera_double_tap_power_gesture_desc" msgid="7355664631775680376">"आपली स्क्रीन अनलॉक न करता कॅमेरा द्रुतपणे उघडा"</string>
   <string-array name="color_mode_names">
     <item msgid="2425514299220523812">"सशक्त (डीफॉल्ट)"</item>
     <item msgid="8446070607501413455">"नैसर्गिक"</item>

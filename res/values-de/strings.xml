@@ -319,8 +319,8 @@
     <string name="fingerprint_add_title" msgid="1926752654454033904">"Fingerabdruck hinzufügen"</string>
     <string name="fingerprint_enable_keyguard_toggle_title" msgid="5078060939636911795">"Displaysperre"</string>
     <plurals name="security_settings_fingerprint_preference_summary" formatted="false" msgid="624961700033979880">
-      <item quantity="other"><xliff:g id="COUNT_1">%1$d</xliff:g> Fingerabdrücke einrichten</item>
-      <item quantity="one"><xliff:g id="COUNT_0">%1$d</xliff:g> Fingerabdruck einrichten</item>
+      <item quantity="other"><xliff:g id="COUNT_1">%1$d</xliff:g> Fingerabdrücke eingerichtet</item>
+      <item quantity="one"><xliff:g id="COUNT_0">%1$d</xliff:g> Fingerabdrücke eingerichtet</item>
     </plurals>
     <string name="security_settings_fingerprint_preference_summary_none" msgid="1507739327565151923"></string>
     <string name="security_settings_fingerprint_enroll_onboard_title" msgid="4735546436672054254">"Abdruck einrichten"</string>
@@ -816,7 +816,7 @@
     <string name="accessibility_category_work" msgid="4339262969083355720">"Konten für Arbeitsprofil – <xliff:g id="MANAGED_BY">%s</xliff:g>"</string>
     <string name="accessibility_category_personal" msgid="1263518850905945594">"Konten für persönliches Profil"</string>
     <string name="accessibility_work_account_title" msgid="1231830766637939527">"Arbeitskonto – <xliff:g id="MANAGED_BY">%s</xliff:g>"</string>
-    <string name="accessibility_personal_account_title" msgid="2169071663029067826">"Persönliches Konto – <xliff:g id="MANAGED_BY">%s</xliff:g>"</string>
+    <string name="accessibility_personal_account_title" msgid="2169071663029067826">"Privates Konto – <xliff:g id="MANAGED_BY">%s</xliff:g>"</string>
     <string name="search_settings" msgid="1910951467596035063">"Suche"</string>
     <string name="search_settings_summary" msgid="9205656546570654169">"Sucheinstellungen und Suchverlauf verwalten"</string>
     <string name="display_settings" msgid="7965901687241669598">"Display"</string>
@@ -1601,7 +1601,7 @@
     <string name="accessibility_captioning_title" msgid="7589266662024836291">"Untertitel"</string>
     <string name="accessibility_screen_magnification_title" msgid="7001782548715744981">"Vergrößerungsbewegungen"</string>
     <string name="accessibility_screen_magnification_summary" msgid="1178289000423776584">"Wenn diese Funktion aktiviert ist, können Sie heranzoomen und herauszoomen, indem Sie drei Mal auf den Bildschirm tippen.\n\nWenn Sie herangezoomt haben, können Sie:\n"<ul><li>"Schwenken: mindestens 2 Finger über den Bildschirm ziehen"</li>\n<li>"Zoomstufe anpassen: mindestens 2 Finger zusammen- oder auseinanderziehen"</li></ul>\n\n"Sie können auch das, was sich unter Ihrem Finger befindet, vorübergehend vergrößern, indem Sie drei Mal tippen und halten. In diesem vergrößerten Zustand können Sie Ihren Finger ziehen, um verschiedene Bereiche des Bildschirms zu erkunden. Heben Sie Ihren Finger an, um zum vorherigen Zustand zurückzukehren.\n\nHinweis: Das dreimalige Tippen zur Vergrößerung funktioniert überall außer in der Tastatur und in der Navigationsleiste."</string>
-    <string name="accessibility_global_gesture_preference_title" msgid="6752037184140789970">"Bedienungshilfenverknüpfung"</string>
+    <string name="accessibility_global_gesture_preference_title" msgid="6752037184140789970">"Kurzbefehl für Bedienungshilfen"</string>
     <string name="accessibility_global_gesture_preference_summary_on" msgid="6180927399052022181">"An"</string>
     <string name="accessibility_global_gesture_preference_summary_off" msgid="8102103337813609849">"Aus"</string>
     <string name="accessibility_global_gesture_preference_description" msgid="750438015254396963">"Wenn diese Funktion aktiviert ist, können Sie Bedienungshilfen schnell in zwei Schritten aktivieren:\n\nSchritt 1: Drücken und halten Sie die Ein-/Aus-Taste, bis Sie einen Ton hören oder eine Vibration spüren.\n\nSchritt 2: Berühren und halten Sie mit zwei Fingern, bis Sie eine Audiobestätigung hören.\n\nFalls das Gerät mehrere Nutzer hat, werden die Bedienungshilfen durch Verwendung dieser Verknüpfung in der Bildschirmsperre solange aktiviert, bis das Gerät entsperrt ist."</string>

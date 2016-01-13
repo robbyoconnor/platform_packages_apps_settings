@@ -679,7 +679,7 @@
     <string name="wifi_scan_always_turnon_message" msgid="203123538572122989">"Om de locatieprecisie te verbeteren en voor andere doeleinden, wil <xliff:g id="APP_NAME">%1$s</xliff:g> de netwerkscan inschakelen, zelfs als wifi is uitgeschakeld.\n\nDit toestaan voor alle apps die willen scannen?"</string>
     <string name="wifi_scan_always_turnoff_message" msgid="5538901671131941043">"Ga in het overloopmenu naar \'Geavanceerd\' om dit uit te schakelen."</string>
     <string name="wifi_scan_always_confirm_allow" msgid="5355973075896817232">"Toestaan"</string>
-    <string name="wifi_scan_always_confirm_deny" msgid="4463982053823520710">"Afwijzen"</string>
+    <string name="wifi_scan_always_confirm_deny" msgid="4463982053823520710">"Weigeren"</string>
     <string name="wifi_hotspot_title" msgid="7726205804813286950">"Inloggen om te koppelen?"</string>
     <string name="wifi_hotspot_message" msgid="3673833421453455747">"Voor <xliff:g id="APP_NAME">%1$s</xliff:g> moet je online inloggen vóór je met het netwerk koppelt."</string>
     <string name="wifi_hotspot_connect" msgid="5065506390164939225">"KOPPELEN"</string>

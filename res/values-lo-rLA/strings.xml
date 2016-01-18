@@ -2512,6 +2512,7 @@
     <string name="keywords_default_apps" msgid="3581727483175522599">"ມາດ​ຕະ​ຖານ​ແອັບ"</string>
     <string name="keywords_ignore_optimizations" msgid="946516741848647905">"ສະ​ແຕນ​ບາຍ​ແອັບລະເລີຍການປັບ​ໃຫ້​ມີ​ປະ​ສິດ​ທິ​ຜົນ​ສູງສຸດ"</string>
     <string name="keywords_color_mode" msgid="4670570451841540200">"ມາດ​ຕະ​ຖານ​ທຳ​ມະ​ຊາດ​ສີ rgb srgb ຕົວ​ສັ່ນ"</string>
+    <string name="keywords_color_temperature" msgid="2688947724153266364">"ອຸນຫະພູມສີ D65 D73 ຂາວ ເຫຼືອງ ຟ້າ ອຸ່ນ ເຢັນ"</string>
     <string name="keywords_lockscreen" msgid="4806191868723291541">"ສະ​ໄລ້ ລະ​ຫັດ​ຜ່ານ ຮູບ​ແບບ pin"</string>
     <string name="setup_wifi_nfc_tag" msgid="9028353016222911016">"ຕັ້ງ​ຄ່າ​ແທັກ Wi-Fi NFC"</string>
     <string name="write_tag" msgid="8571858602896222537">"ຂຽນ"</string>
@@ -2900,4 +2901,6 @@
   </string-array>
     <string name="picture_color_mode" msgid="4560755008730283695">"ໂໝດ​ສີ​ຮູບ"</string>
     <string name="picture_color_mode_desc" msgid="1141891467675548590">"ໃຊ້ sRGB"</string>
+    <string name="color_temperature" msgid="2501579996151717270">"ອຸນຫະພູມສີຂອງຈໍສະແດງຜົນ"</string>
+    <string name="color_temperature_desc" msgid="3603319696846982249">"ເປີດ​ນໍາ​ໃຊ້​ອຸນ​ຫະ​ພູມ​ເຢັນ"</string>
 </resources>

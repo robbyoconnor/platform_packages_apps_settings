@@ -2512,6 +2512,7 @@
     <string name="keywords_default_apps" msgid="3581727483175522599">"பயன்பாடுகள் இயல்பு"</string>
     <string name="keywords_ignore_optimizations" msgid="946516741848647905">"தவிர் மேம்படுத்தல்கள் doze பயன்பாடு காத்திருப்பு நிலை"</string>
     <string name="keywords_color_mode" msgid="4670570451841540200">"வைபிரன்ட் rgb srgb வண்ணம் இயற்கை வழக்கம்"</string>
+    <string name="keywords_color_temperature" msgid="2688947724153266364">"வண்ணம் அளவு D65 D73 வெள்ளை மஞ்சள் நீலம் அடர் வெளிர்"</string>
     <string name="keywords_lockscreen" msgid="4806191868723291541">"ஸ்லைடு கடவுச்சொல் வடிவம் pin"</string>
     <string name="setup_wifi_nfc_tag" msgid="9028353016222911016">"வைஃபை NFC குறியை அமை"</string>
     <string name="write_tag" msgid="8571858602896222537">"எழுது"</string>
@@ -2900,4 +2901,6 @@
   </string-array>
     <string name="picture_color_mode" msgid="4560755008730283695">"படத்தின் வண்ணப் பயன்முறை"</string>
     <string name="picture_color_mode_desc" msgid="1141891467675548590">"sRGBஐப் பயன்படுத்தும்"</string>
+    <string name="color_temperature" msgid="2501579996151717270">"காட்சியின் வண்ண அளவு"</string>
+    <string name="color_temperature_desc" msgid="3603319696846982249">"வெளிர் அளவை இயக்கு"</string>
 </resources>

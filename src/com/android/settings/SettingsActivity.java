@@ -127,6 +127,7 @@ import com.android.settings.wifi.SavedAccessPointsWifiSettings;
 import com.android.settings.wifi.WifiSettings;
 import com.android.settings.wifi.p2p.WifiP2pSettings;
 import com.android.settings.nexus.AmbientSettings;
+import com.pure.settings.PureSettings;
 
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
@@ -281,7 +282,8 @@ public class SettingsActivity extends Activity
             R.id.print_settings,
             R.id.nfc_payment_settings,
             R.id.home_settings,
-            R.id.dashboard
+            R.id.dashboard,
+            R.id.custom_settings
     };
 
     private static final String[] ENTRY_FRAGMENTS = {
@@ -358,6 +360,7 @@ public class SettingsActivity extends Activity
             DrawOverlayDetails.class.getName(),
             WriteSettingsDetails.class.getName(),
             DisplayRotation.class.getName(),
+            PureSettings.class.getName(),
             AmbientSettings.class.getName()
     };
 
